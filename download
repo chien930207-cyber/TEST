@@ -1,0 +1,8 @@
+.image-cache/
+_site/
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+test-results/
+.DS_Store

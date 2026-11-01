@@ -1,0 +1,18 @@
+test_front_not_back_or_composite (test_collector.CollectorTests.test_front_not_back_or_composite) ... ok
+test_jersey_not_shirt_or_wrong_team (test_collector.CollectorTests.test_jersey_not_shirt_or_wrong_team) ... ok
+test_original_dimensions_untouched (test_collector.CollectorTests.test_original_dimensions_untouched) ... ok
+test_original_url_not_upscale (test_collector.CollectorTests.test_original_url_not_upscale) ... ok
+test_partial_success_is_retained (test_collector.CollectorTests.test_partial_success_is_retained) ... MLB-NYY jersey unavailable: blocked
+ok
+test_reject_error_page (test_collector.CollectorTests.test_reject_error_page) ... ok
+test_same_pixel_bytes_preserved_and_cached (test_collector.CollectorTests.test_same_pixel_bytes_preserved_and_cached) ... ok
+test_shopify_original (test_collector.CollectorTests.test_shopify_original) ... ok
+test_source_roster_consistency (test_collector.CollectorTests.test_source_roster_consistency) ... ok
+test_ssrf_private_dns (test_collector.CollectorTests.test_ssrf_private_dns) ... ok
+test_ssrf_scheme (test_collector.CollectorTests.test_ssrf_scheme) ... ok
+test_vector_and_unsafe_svg (test_collector.CollectorTests.test_vector_and_unsafe_svg) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.313s
+
+OK

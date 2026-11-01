@@ -1,0 +1,4489 @@
+{
+  "version": "6.0-github-pages",
+  "rosterAsOf": "2026-11-01",
+  "teams": [
+    {
+      "id": "CPBL-BRO",
+      "league": "CPBL",
+      "abbr": "BRO",
+      "zh": "中信兄弟",
+      "en": "CTBC Brothers",
+      "logos": [
+        "https://imgs2.utiki.com.tw/Data/CTBC_BROTHERS_WEB_RWD/images/logo/logo_brothers.png"
+      ],
+      "rosterSource": "https://cpbl.com.tw/teamhistory",
+      "jerseyPage": "https://www.brothers-shop.com.tw/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 0,
+      "wiki": "CTBC_Brothers",
+      "official": "https://www.brothers.tw/",
+      "cpblCode": "ACN",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.brothers.tw/POR0101_",
+      "sourceReview": "Official store found; product/image still unresolved",
+      "jerseyPages": [
+        "https://www.brothers-shop.com.tw/",
+        "https://www.brothers.tw/"
+      ],
+      "sourceCheckedOn": "2026-11-01",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true
+    },
+    {
+      "id": "CPBL-UNI",
+      "league": "CPBL",
+      "abbr": "UNI",
+      "zh": "統一7-ELEVEn獅",
+      "en": "Uni-President 7-ELEVEn Lions",
+      "logos": [
+        "https://imgs2.utiki.com.tw/Data/CTBC_BROTHERS_WEB_RWD/images/logo/logo_lions.png"
+      ],
+      "rosterSource": "https://cpbl.com.tw/teamhistory",
+      "jerseyPage": "https://lioncrew.uni-lions.com.tw/products/ula000910002002",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 1,
+      "wiki": "Uni-President_7-Eleven_Lions",
+      "official": "https://www.uni-lions.com.tw/",
+      "cpblCode": "ADD",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.brothers.tw/POR0101_",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://lioncrew.uni-lions.com.tw/products/ula000910002002"
+      ]
+    },
+    {
+      "id": "CPBL-RAK",
+      "league": "CPBL",
+      "abbr": "RAK",
+      "zh": "樂天桃猿",
+      "en": "Rakuten Monkeys",
+      "logos": [
+        "https://imgs2.utiki.com.tw/Data/CTBC_BROTHERS_WEB_RWD/images/logo/logo_monkeys.png"
+      ],
+      "rosterSource": "https://cpbl.com.tw/teamhistory",
+      "jerseyPage": "https://www.rakuten.com.tw/shop/monkeyshop/product/d4f9nabvh/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 2,
+      "wiki": "Rakuten_Monkeys",
+      "official": "https://monkeys.rakuten.com.tw/",
+      "cpblCode": "AJL",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.brothers.tw/POR0101_",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://www.rakuten.com.tw/shop/monkeyshop/product/d4f9nabvh/"
+      ]
+    },
+    {
+      "id": "CPBL-FUB",
+      "league": "CPBL",
+      "abbr": "FUB",
+      "zh": "富邦悍將",
+      "en": "Fubon Guardians",
+      "logos": [
+        "https://imgs2.utiki.com.tw/Data/CTBC_BROTHERS_WEB_RWD/images/logo/logo_fubon.png"
+      ],
+      "rosterSource": "https://cpbl.com.tw/teamhistory",
+      "jerseyPage": "https://www.fubonguardians.com/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 3,
+      "wiki": "Fubon_Guardians",
+      "official": "https://www.fubonguardians.com/",
+      "cpblCode": "AEO",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.brothers.tw/POR0101_",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://www.fubonguardians.com/"
+      ]
+    },
+    {
+      "id": "CPBL-WCD",
+      "league": "CPBL",
+      "abbr": "WCD",
+      "zh": "味全龍",
+      "en": "Wei Chuan Dragons",
+      "logos": [
+        "https://imgs2.utiki.com.tw/Data/CTBC_BROTHERS_WEB_RWD/images/logo/logo_dragon.png"
+      ],
+      "rosterSource": "https://cpbl.com.tw/teamhistory",
+      "jerseyPage": "https://shop.wdragons.com/en/collections/%E7%90%83%E8%A1%A3",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 4,
+      "wiki": "Wei_Chuan_Dragons",
+      "official": "https://www.wdragons.com/",
+      "cpblCode": "AAA",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.brothers.tw/POR0101_",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://shop.wdragons.com/en/collections/%E7%90%83%E8%A1%A3"
+      ]
+    },
+    {
+      "id": "CPBL-TSG",
+      "league": "CPBL",
+      "abbr": "TSG",
+      "zh": "台鋼雄鷹",
+      "en": "TSG Hawks",
+      "logos": [
+        "https://imgs2.utiki.com.tw/Data/CTBC_BROTHERS_WEB_RWD/images/logo/logo_tsg.png",
+        "https://www.tsghawks.com/wp-content/uploads/2023/02/logo-time-1024x718.png"
+      ],
+      "rosterSource": "https://cpbl.com.tw/teamhistory",
+      "jerseyPage": "https://www.tsghawks.com/product/2026%E5%8F%B0%E9%8B%BC%E9%9B%84%E9%B7%B9%E4%B8%BB%E5%A0%B4%E7%90%83%E8%A1%A3/",
+      "jerseyDirect": "https://tsgmedia.blob.core.windows.net/wp-media/2026/03/%E4%B8%BB%E5%A0%B4%E7%90%83%E8%A1%A3-%E5%95%86%E5%93%81%E5%9C%96-2048x2048.jpg",
+      "jerseyLabel": "2026 台鋼雄鷹主場球衣",
+      "index": 5,
+      "wiki": "TSG_Hawks",
+      "official": "https://www.tsghawks.com/",
+      "cpblCode": "AKP",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.brothers.tw/POR0101_",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://www.tsghawks.com/product/2026%E5%8F%B0%E9%8B%BC%E9%9B%84%E9%B7%B9%E4%B8%BB%E5%A0%B4%E7%90%83%E8%A1%A3/"
+      ]
+    },
+    {
+      "id": "TPBL-MARS",
+      "league": "TPBL",
+      "abbr": "MARS",
+      "zh": "臺北台新戰神",
+      "en": "Taipei Taishin Mars",
+      "logos": [
+        "https://assets.tpbl.basketball/frontend/_nuxt/mars.BbDWfkG6.webp"
+      ],
+      "rosterSource": "https://tpbl.basketball/",
+      "jerseyPage": "https://taipeimars.shoplineapp.com/pages/new-page-1",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 6,
+      "official": "https://tpbl.basketball/",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://tpbl.basketball/",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://taipeimars.shoplineapp.com/pages/new-page-1"
+      ]
+    },
+    {
+      "id": "TPBL-DEA",
+      "league": "TPBL",
+      "abbr": "DEA",
+      "zh": "新北中信特攻",
+      "en": "New Taipei CTBC DEA",
+      "logos": [
+        "https://assets.tpbl.basketball/frontend/_nuxt/dea.BEfNfG39.webp"
+      ],
+      "rosterSource": "https://tpbl.basketball/",
+      "jerseyPage": "https://shop.ctbcdea.com.tw/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 7,
+      "official": "https://tpbl.basketball/",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://tpbl.basketball/",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://shop.ctbcdea.com.tw/"
+      ]
+    },
+    {
+      "id": "TPBL-KINGS",
+      "league": "TPBL",
+      "abbr": "KINGS",
+      "zh": "新北國王",
+      "en": "New Taipei Kings",
+      "logos": [
+        "https://assets.tpbl.basketball/frontend/_nuxt/kings.DsunMN-K.webp"
+      ],
+      "rosterSource": "https://tpbl.basketball/",
+      "jerseyPage": "https://shop.newtaipeikings.com/zh-hant/products/26-27-kings-%E7%90%83%E8%A1%A3%EF%BD%9C%E7%8E%8B%E5%9F%8E%E6%A6%AE%E8%80%80%E9%BB%83",
+      "jerseyDirect": "",
+      "jerseyLabel": "2026-27 KINGS / yellow",
+      "index": 8,
+      "official": "https://tpbl.basketball/",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://tpbl.basketball/",
+      "sourceReview": "Exact official product page located in web search; original image not downloaded",
+      "jerseyPages": [
+        "https://shop.newtaipeikings.com/zh-hant/products/26-27-kings-%E7%90%83%E8%A1%A3%EF%BD%9C%E7%8E%8B%E5%9F%8E%E6%A6%AE%E8%80%80%E9%BB%83",
+        "https://shop.newtaipeikings.com/"
+      ],
+      "sourceCheckedOn": "2026-11-01",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true
+    },
+    {
+      "id": "TPBL-LEO",
+      "league": "TPBL",
+      "abbr": "LEO",
+      "zh": "桃園台啤永豐雲豹",
+      "en": "Taoyuan Taiwan Beer Leopards",
+      "logos": [
+        "https://assets.tpbl.basketball/frontend/_nuxt/leopards.BGzlSG8M.webp"
+      ],
+      "rosterSource": "https://tpbl.basketball/",
+      "jerseyPage": "https://t-leopardsshop.com/shop/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 9,
+      "official": "https://tpbl.basketball/",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://tpbl.basketball/",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://t-leopardsshop.com/shop/"
+      ]
+    },
+    {
+      "id": "TPBL-LIO",
+      "league": "TPBL",
+      "abbr": "LIO",
+      "zh": "新竹御嵿攻城獅",
+      "en": "Hsinchu Toplus Lioneers",
+      "logos": [
+        "https://assets.tpbl.basketball/frontend/_nuxt/lioneers.DTfkuEJZ.webp"
+      ],
+      "rosterSource": "https://tpbl.basketball/",
+      "jerseyPage": "https://www.lioneers.tw/products/25-26%E6%94%BB%E5%9F%8E%E7%8D%85%E4%B8%BB%E6%88%B0%E7%90%83%E8%A1%A3%EF%BD%9C%E9%BB%91",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 10,
+      "official": "https://tpbl.basketball/",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://tpbl.basketball/",
+      "sourceReview": "Exact official product page located; 2025-26 representative, not confirmed newest",
+      "jerseyPages": [
+        "https://www.lioneers.tw/products/25-26%E6%94%BB%E5%9F%8E%E7%8D%85%E4%B8%BB%E6%88%B0%E7%90%83%E8%A1%A3%EF%BD%9C%E9%BB%91",
+        "https://www.lioneers.tw/categories/lioneersjerseys"
+      ],
+      "sourceCheckedOn": "2026-11-01",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true
+    },
+    {
+      "id": "TPBL-DRE",
+      "league": "TPBL",
+      "abbr": "DRE",
+      "zh": "福爾摩沙夢想家",
+      "en": "Formosa Dreamers",
+      "logos": [
+        "https://assets.tpbl.basketball/frontend/_nuxt/dreamers.8uP5AliT.webp"
+      ],
+      "rosterSource": "https://tpbl.basketball/",
+      "jerseyPage": "https://www.formosadreamers.com/pages/product",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 11,
+      "official": "https://tpbl.basketball/",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://tpbl.basketball/",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://www.formosadreamers.com/pages/product"
+      ]
+    },
+    {
+      "id": "TPBL-AQU",
+      "league": "TPBL",
+      "abbr": "AQU",
+      "zh": "高雄全家海神",
+      "en": "Kaohsiung Aquas",
+      "logos": [
+        "https://assets.tpbl.basketball/frontend/_nuxt/aquas.CB-Rq9NB.webp"
+      ],
+      "rosterSource": "https://tpbl.basketball/",
+      "jerseyPage": "https://ktown-aquas.com/about",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 12,
+      "official": "https://tpbl.basketball/",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://tpbl.basketball/",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://ktown-aquas.com/about"
+      ]
+    },
+    {
+      "id": "PLG-BRAVES",
+      "league": "PLG",
+      "abbr": "BRAVES",
+      "zh": "臺北富邦勇士",
+      "en": "Taipei Fubon Braves",
+      "logos": [
+        "https://d36fypkbmmogz6.cloudfront.net/upload/p_team/logo_1_1730454157.png"
+      ],
+      "rosterSource": "https://pleagueofficial.com/",
+      "jerseyPage": "https://www.fubonbravesonlineshop.com/products/%E6%B7%B1%E9%82%83%E8%97%8D%E4%B8%BB%E5%A0%B4%E7%90%83%E8%A1%A3",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 13,
+      "official": "https://pleagueofficial.com/team/1",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://pleagueofficial.com/",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://www.fubonbravesonlineshop.com/products/%E6%B7%B1%E9%82%83%E8%97%8D%E4%B8%BB%E5%A0%B4%E7%90%83%E8%A1%A3"
+      ]
+    },
+    {
+      "id": "PLG-PILOTS",
+      "league": "PLG",
+      "abbr": "PILOTS",
+      "zh": "桃園璞園領航猿",
+      "en": "Taoyuan Pauian Pilots",
+      "logos": [
+        "https://d36fypkbmmogz6.cloudfront.net/upload/p_team/logo_2_1730454167.png"
+      ],
+      "rosterSource": "https://pleagueofficial.com/",
+      "jerseyPage": "https://www.stancave.com/pages/taoyuanpilots",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 14,
+      "official": "https://pleagueofficial.com/team/2",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://pleagueofficial.com/",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://www.stancave.com/pages/taoyuanpilots"
+      ]
+    },
+    {
+      "id": "PLG-ARK",
+      "league": "PLG",
+      "abbr": "ARK",
+      "zh": "洋基工程方舟",
+      "en": "YKE ARK",
+      "logos": [
+        "https://d36fypkbmmogz6.cloudfront.net/upload/p_team/logo_8_1760078581.png"
+      ],
+      "rosterSource": "https://pleagueofficial.com/",
+      "jerseyPage": "https://www.yankeyark.com/zh-TW/products/25-26%E6%B4%8B%E5%9F%BA%E5%B7%A5%E7%A8%8B%E4%B8%BB%E6%88%B0%E7%90%83%E8%A1%A3%E7%99%BD",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 15,
+      "official": "https://pleagueofficial.com/team/8",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://pleagueofficial.com/",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://www.yankeyark.com/zh-TW/products/25-26%E6%B4%8B%E5%9F%BA%E5%B7%A5%E7%A8%8B%E4%B8%BB%E6%88%B0%E7%90%83%E8%A1%A3%E7%99%BD"
+      ]
+    },
+    {
+      "id": "PLG-GHOST",
+      "league": "PLG",
+      "abbr": "GHOST",
+      "zh": "台鋼獵鷹",
+      "en": "TSG GhostHawks",
+      "logos": [
+        "https://d36fypkbmmogz6.cloudfront.net/upload/p_team/logo_7_1760078282.png"
+      ],
+      "rosterSource": "https://pleagueofficial.com/",
+      "jerseyPage": "https://ghosthawks.shoplineapp.com/categories/%E4%B8%8A%E8%A1%A3",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 16,
+      "official": "https://pleagueofficial.com/team/7",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://pleagueofficial.com/",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": true,
+      "jerseyPages": [
+        "https://ghosthawks.shoplineapp.com/categories/%E4%B8%8A%E8%A1%A3"
+      ]
+    },
+    {
+      "id": "MLB-ARI",
+      "league": "MLB",
+      "abbr": "ARI",
+      "zh": "亞利桑那響尾蛇",
+      "en": "Arizona Diamondbacks",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/109.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/dbacks",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 17,
+      "teamId": 109,
+      "official": "https://www.mlb.com/dbacks",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/dbacks",
+      "jerseyPages": [
+        "https://www.mlbshop.com/arizona-diamondbacks/jerseys/",
+        "https://www.mlbshop.com/arizona-diamondbacks/",
+        "https://www.mlb.com/dbacks"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-ATL",
+      "league": "MLB",
+      "abbr": "ATL",
+      "zh": "亞特蘭大勇士",
+      "en": "Atlanta Braves",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/144.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/braves",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 18,
+      "teamId": 144,
+      "official": "https://www.mlb.com/braves",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/braves",
+      "jerseyPages": [
+        "https://www.mlbshop.com/atlanta-braves/jerseys/",
+        "https://www.mlbshop.com/atlanta-braves/",
+        "https://www.mlb.com/braves"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-BAL",
+      "league": "MLB",
+      "abbr": "BAL",
+      "zh": "巴爾的摩金鶯",
+      "en": "Baltimore Orioles",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/110.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/orioles",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 19,
+      "teamId": 110,
+      "official": "https://www.mlb.com/orioles",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/orioles",
+      "jerseyPages": [
+        "https://www.mlbshop.com/baltimore-orioles/jerseys/",
+        "https://www.mlbshop.com/baltimore-orioles/",
+        "https://www.mlb.com/orioles"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-BOS",
+      "league": "MLB",
+      "abbr": "BOS",
+      "zh": "波士頓紅襪",
+      "en": "Boston Red Sox",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/111.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/redsox",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 20,
+      "teamId": 111,
+      "official": "https://www.mlb.com/redsox",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/redsox",
+      "jerseyPages": [
+        "https://www.mlbshop.com/boston-red-sox/jerseys/",
+        "https://www.mlbshop.com/boston-red-sox/",
+        "https://www.mlb.com/redsox"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-CHC",
+      "league": "MLB",
+      "abbr": "CHC",
+      "zh": "芝加哥小熊",
+      "en": "Chicago Cubs",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/112.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/cubs",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 21,
+      "teamId": 112,
+      "official": "https://www.mlb.com/cubs",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/cubs",
+      "jerseyPages": [
+        "https://www.mlbshop.com/chicago-cubs/jerseys/",
+        "https://www.mlbshop.com/chicago-cubs/",
+        "https://www.mlb.com/cubs"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-CHW",
+      "league": "MLB",
+      "abbr": "CHW",
+      "zh": "芝加哥白襪",
+      "en": "Chicago White Sox",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/145.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/whitesox",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 22,
+      "teamId": 145,
+      "official": "https://www.mlb.com/whitesox",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/whitesox",
+      "jerseyPages": [
+        "https://www.mlbshop.com/chicago-white-sox/jerseys/",
+        "https://www.mlbshop.com/chicago-white-sox/",
+        "https://www.mlb.com/whitesox"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-CIN",
+      "league": "MLB",
+      "abbr": "CIN",
+      "zh": "辛辛那提紅人",
+      "en": "Cincinnati Reds",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/113.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/reds",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 23,
+      "teamId": 113,
+      "official": "https://www.mlb.com/reds",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/reds",
+      "jerseyPages": [
+        "https://www.mlbshop.com/cincinnati-reds/jerseys/",
+        "https://www.mlbshop.com/cincinnati-reds/",
+        "https://www.mlb.com/reds"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-CLE",
+      "league": "MLB",
+      "abbr": "CLE",
+      "zh": "克里夫蘭守護者",
+      "en": "Cleveland Guardians",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/114.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/guardians",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 24,
+      "teamId": 114,
+      "official": "https://www.mlb.com/guardians",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/guardians",
+      "jerseyPages": [
+        "https://www.mlbshop.com/cleveland-guardians/jerseys/",
+        "https://www.mlbshop.com/cleveland-guardians/",
+        "https://www.mlb.com/guardians"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-COL",
+      "league": "MLB",
+      "abbr": "COL",
+      "zh": "科羅拉多洛磯",
+      "en": "Colorado Rockies",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/115.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/rockies",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 25,
+      "teamId": 115,
+      "official": "https://www.mlb.com/rockies",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/rockies",
+      "jerseyPages": [
+        "https://www.mlbshop.com/colorado-rockies/jerseys/",
+        "https://www.mlbshop.com/colorado-rockies/",
+        "https://www.mlb.com/rockies"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-DET",
+      "league": "MLB",
+      "abbr": "DET",
+      "zh": "底特律老虎",
+      "en": "Detroit Tigers",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/116.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/tigers",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 26,
+      "teamId": 116,
+      "official": "https://www.mlb.com/tigers",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/tigers",
+      "jerseyPages": [
+        "https://www.mlbshop.com/detroit-tigers/jerseys/",
+        "https://www.mlbshop.com/detroit-tigers/",
+        "https://www.mlb.com/tigers"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-HOU",
+      "league": "MLB",
+      "abbr": "HOU",
+      "zh": "休士頓太空人",
+      "en": "Houston Astros",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/117.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/astros",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 27,
+      "teamId": 117,
+      "official": "https://www.mlb.com/astros",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/astros",
+      "jerseyPages": [
+        "https://www.mlbshop.com/houston-astros/jerseys/",
+        "https://www.mlbshop.com/houston-astros/",
+        "https://www.mlb.com/astros"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-KC",
+      "league": "MLB",
+      "abbr": "KC",
+      "zh": "堪薩斯市皇家",
+      "en": "Kansas City Royals",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/118.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/royals",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 28,
+      "teamId": 118,
+      "official": "https://www.mlb.com/royals",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/royals",
+      "jerseyPages": [
+        "https://www.mlbshop.com/kansas-city-royals/jerseys/",
+        "https://www.mlbshop.com/kansas-city-royals/",
+        "https://www.mlb.com/royals"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-LAA",
+      "league": "MLB",
+      "abbr": "LAA",
+      "zh": "洛杉磯天使",
+      "en": "Los Angeles Angels",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/108.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/angels",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 29,
+      "teamId": 108,
+      "official": "https://www.mlb.com/angels",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/angels",
+      "jerseyPages": [
+        "https://www.mlbshop.com/los-angeles-angels/jerseys/",
+        "https://www.mlbshop.com/los-angeles-angels/",
+        "https://www.mlb.com/angels"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-LAD",
+      "league": "MLB",
+      "abbr": "LAD",
+      "zh": "洛杉磯道奇",
+      "en": "Los Angeles Dodgers",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/119.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlbshop.com/los-angeles-dodgers/mens-los-angeles-dodgers-nike-white-home-replica-team-jersey/t-92774333+p-140586089382+z-8-1835850819",
+      "jerseyDirect": "https://fanatics.frgimages.com/los-angeles-dodgers/mens-nike-white-los-angeles-dodgers-home-replica-team-jersey_pi3588000_altimages_ff_3588495-a3cffd5872bf136b874dalt2_full.jpg?_hv=2&w=1018",
+      "jerseyLabel": "Home Replica | Front",
+      "index": 30,
+      "teamId": 119,
+      "official": "https://www.mlb.com/dodgers",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/dodgers",
+      "jerseyPages": [
+        "https://www.mlbshop.com/los-angeles-dodgers/jerseys/",
+        "https://www.mlbshop.com/los-angeles-dodgers/",
+        "https://www.mlbshop.com/los-angeles-dodgers/mens-los-angeles-dodgers-nike-white-home-replica-team-jersey/t-92774333+p-140586089382+z-8-1835850819",
+        "https://www.mlb.com/dodgers"
+      ],
+      "frontOnly": true,
+      "jerseyFrontVerified": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-MIA",
+      "league": "MLB",
+      "abbr": "MIA",
+      "zh": "邁阿密馬林魚",
+      "en": "Miami Marlins",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/146.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/marlins",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 31,
+      "teamId": 146,
+      "official": "https://www.mlb.com/marlins",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/marlins",
+      "jerseyPages": [
+        "https://www.mlbshop.com/miami-marlins/jerseys/",
+        "https://www.mlbshop.com/miami-marlins/",
+        "https://www.mlb.com/marlins"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-MIL",
+      "league": "MLB",
+      "abbr": "MIL",
+      "zh": "密爾瓦基釀酒人",
+      "en": "Milwaukee Brewers",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/158.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/brewers",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 32,
+      "teamId": 158,
+      "official": "https://www.mlb.com/brewers",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/brewers",
+      "jerseyPages": [
+        "https://www.mlbshop.com/milwaukee-brewers/jerseys/",
+        "https://www.mlbshop.com/milwaukee-brewers/",
+        "https://www.mlb.com/brewers"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-MIN",
+      "league": "MLB",
+      "abbr": "MIN",
+      "zh": "明尼蘇達雙城",
+      "en": "Minnesota Twins",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/142.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/twins",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 33,
+      "teamId": 142,
+      "official": "https://www.mlb.com/twins",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/twins",
+      "jerseyPages": [
+        "https://www.mlbshop.com/minnesota-twins/jerseys/",
+        "https://www.mlbshop.com/minnesota-twins/",
+        "https://www.mlb.com/twins"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-NYM",
+      "league": "MLB",
+      "abbr": "NYM",
+      "zh": "紐約大都會",
+      "en": "New York Mets",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/121.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/mets",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 34,
+      "teamId": 121,
+      "official": "https://www.mlb.com/mets",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/mets",
+      "jerseyPages": [
+        "https://www.mlbshop.com/new-york-mets/jerseys/",
+        "https://www.mlbshop.com/new-york-mets/",
+        "https://www.mlb.com/mets"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-NYY",
+      "league": "MLB",
+      "abbr": "NYY",
+      "zh": "紐約洋基",
+      "en": "New York Yankees",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/147.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://unitedsport.ca/products/nike-mens-mlb-new-york-yankees-home-jersey",
+      "jerseyDirect": "https://unitedsport.ca/cdn/shop/files/Nike-Men_s-MLB-New-York-Yankees-Home-Jersey-White-2.jpg?v=1707248470&width=1080",
+      "jerseyLabel": "Home Jersey | Front",
+      "index": 35,
+      "teamId": 147,
+      "official": "https://www.mlb.com/yankees",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/yankees",
+      "jerseyPages": [
+        "https://www.mlbshop.com/new-york-yankees/jerseys/",
+        "https://www.mlbshop.com/new-york-yankees/",
+        "https://www.mlbshop.com/new-york-yankees/mens-new-york-yankees-nike-white-home-replica-team-jersey/t-14779843+p-8105086405450+z-9-2348975716",
+        "https://www.mlb.com/yankees",
+        "https://unitedsport.ca/products/nike-mens-mlb-new-york-yankees-home-jersey"
+      ],
+      "frontOnly": true,
+      "jerseyFrontVerified": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-ATH",
+      "league": "MLB",
+      "abbr": "ATH",
+      "zh": "運動家",
+      "en": "Athletics",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/133.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/athletics",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 36,
+      "teamId": 133,
+      "official": "https://www.mlb.com/athletics",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/athletics",
+      "jerseyPages": [
+        "https://www.mlbshop.com/oakland-athletics/jerseys/",
+        "https://www.mlbshop.com/oakland-athletics/",
+        "https://www.mlb.com/athletics"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-PHI",
+      "league": "MLB",
+      "abbr": "PHI",
+      "zh": "費城費城人",
+      "en": "Philadelphia Phillies",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/143.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/phillies",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 37,
+      "teamId": 143,
+      "official": "https://www.mlb.com/phillies",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/phillies",
+      "jerseyPages": [
+        "https://www.mlbshop.com/philadelphia-phillies/jerseys/",
+        "https://www.mlbshop.com/philadelphia-phillies/",
+        "https://www.mlb.com/phillies"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-PIT",
+      "league": "MLB",
+      "abbr": "PIT",
+      "zh": "匹茲堡海盜",
+      "en": "Pittsburgh Pirates",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/134.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/pirates",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 38,
+      "teamId": 134,
+      "official": "https://www.mlb.com/pirates",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/pirates",
+      "jerseyPages": [
+        "https://www.mlbshop.com/pittsburgh-pirates/jerseys/",
+        "https://www.mlbshop.com/pittsburgh-pirates/",
+        "https://www.mlb.com/pirates"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-SD",
+      "league": "MLB",
+      "abbr": "SD",
+      "zh": "聖地牙哥教士",
+      "en": "San Diego Padres",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/135.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/padres",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 39,
+      "teamId": 135,
+      "official": "https://www.mlb.com/padres",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/padres",
+      "jerseyPages": [
+        "https://www.mlbshop.com/san-diego-padres/jerseys/",
+        "https://www.mlbshop.com/san-diego-padres/",
+        "https://www.mlb.com/padres"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-SF",
+      "league": "MLB",
+      "abbr": "SF",
+      "zh": "舊金山巨人",
+      "en": "San Francisco Giants",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/137.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/giants",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 40,
+      "teamId": 137,
+      "official": "https://www.mlb.com/giants",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/giants",
+      "jerseyPages": [
+        "https://www.mlbshop.com/san-francisco-giants/jerseys/",
+        "https://www.mlbshop.com/san-francisco-giants/",
+        "https://www.mlb.com/giants"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-SEA",
+      "league": "MLB",
+      "abbr": "SEA",
+      "zh": "西雅圖水手",
+      "en": "Seattle Mariners",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/136.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/mariners",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 41,
+      "teamId": 136,
+      "official": "https://www.mlb.com/mariners",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/mariners",
+      "jerseyPages": [
+        "https://www.mlbshop.com/seattle-mariners/jerseys/",
+        "https://www.mlbshop.com/seattle-mariners/",
+        "https://www.mlb.com/mariners"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-STL",
+      "league": "MLB",
+      "abbr": "STL",
+      "zh": "聖路易紅雀",
+      "en": "St. Louis Cardinals",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/138.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/cardinals",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 42,
+      "teamId": 138,
+      "official": "https://www.mlb.com/cardinals",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/cardinals",
+      "jerseyPages": [
+        "https://www.mlbshop.com/st-louis-cardinals/jerseys/",
+        "https://www.mlbshop.com/st-louis-cardinals/",
+        "https://www.mlb.com/cardinals"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-TB",
+      "league": "MLB",
+      "abbr": "TB",
+      "zh": "坦帕灣光芒",
+      "en": "Tampa Bay Rays",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/139.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/rays",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 43,
+      "teamId": 139,
+      "official": "https://www.mlb.com/rays",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/rays",
+      "jerseyPages": [
+        "https://www.mlbshop.com/tampa-bay-rays/jerseys/",
+        "https://www.mlbshop.com/tampa-bay-rays/",
+        "https://www.mlb.com/rays"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-TEX",
+      "league": "MLB",
+      "abbr": "TEX",
+      "zh": "德州遊騎兵",
+      "en": "Texas Rangers",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/140.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/rangers",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 44,
+      "teamId": 140,
+      "official": "https://www.mlb.com/rangers",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/rangers",
+      "jerseyPages": [
+        "https://www.mlbshop.com/texas-rangers/jerseys/",
+        "https://www.mlbshop.com/texas-rangers/",
+        "https://www.mlb.com/rangers"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-TOR",
+      "league": "MLB",
+      "abbr": "TOR",
+      "zh": "多倫多藍鳥",
+      "en": "Toronto Blue Jays",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/141.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/bluejays",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 45,
+      "teamId": 141,
+      "official": "https://www.mlb.com/bluejays",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/bluejays",
+      "jerseyPages": [
+        "https://www.mlbshop.com/toronto-blue-jays/jerseys/",
+        "https://www.mlbshop.com/toronto-blue-jays/",
+        "https://www.mlb.com/bluejays"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "MLB-WSH",
+      "league": "MLB",
+      "abbr": "WSH",
+      "zh": "華盛頓國民",
+      "en": "Washington Nationals",
+      "logos": [
+        "https://www.mlbstatic.com/team-logos/120.svg"
+      ],
+      "rosterSource": "https://www.mlb.com/team",
+      "jerseyPage": "https://www.mlb.com/nationals",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 46,
+      "teamId": 120,
+      "official": "https://www.mlb.com/nationals",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.mlb.com/nationals",
+      "jerseyPages": [
+        "https://www.mlbshop.com/washington-nationals/jerseys/",
+        "https://www.mlbshop.com/washington-nationals/",
+        "https://www.mlb.com/nationals"
+      ],
+      "frontOnly": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-ATL",
+      "league": "NBA",
+      "abbr": "ATL",
+      "zh": "亞特蘭大老鷹",
+      "en": "Atlanta Hawks",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612737/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612737/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 47,
+      "teamId": 1610612737,
+      "official": "https://www.nba.com/team/1610612737",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/atlanta-hawks/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-BOS",
+      "league": "NBA",
+      "abbr": "BOS",
+      "zh": "波士頓塞爾提克",
+      "en": "Boston Celtics",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612738/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 48,
+      "teamId": 1610612738,
+      "official": "https://www.nba.com/team/1610612738",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/boston-celtics/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-BKN",
+      "league": "NBA",
+      "abbr": "BKN",
+      "zh": "布魯克林籃網",
+      "en": "Brooklyn Nets",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612751/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 49,
+      "teamId": 1610612751,
+      "official": "https://www.nba.com/team/1610612751",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/brooklyn-nets/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-CHA",
+      "league": "NBA",
+      "abbr": "CHA",
+      "zh": "夏洛特黃蜂",
+      "en": "Charlotte Hornets",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612766/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612766/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 50,
+      "teamId": 1610612766,
+      "official": "https://www.nba.com/team/1610612766",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/charlotte-hornets/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-CHI",
+      "league": "NBA",
+      "abbr": "CHI",
+      "zh": "芝加哥公牛",
+      "en": "Chicago Bulls",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612741/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 51,
+      "teamId": 1610612741,
+      "official": "https://www.nba.com/team/1610612741",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/chicago-bulls/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-CLE",
+      "league": "NBA",
+      "abbr": "CLE",
+      "zh": "克里夫蘭騎士",
+      "en": "Cleveland Cavaliers",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612739/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612739/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 52,
+      "teamId": 1610612739,
+      "official": "https://www.nba.com/team/1610612739",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/cleveland-cavaliers/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-DAL",
+      "league": "NBA",
+      "abbr": "DAL",
+      "zh": "達拉斯獨行俠",
+      "en": "Dallas Mavericks",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612742/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612742/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 53,
+      "teamId": 1610612742,
+      "official": "https://www.nba.com/team/1610612742",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/dallas-mavericks/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-DEN",
+      "league": "NBA",
+      "abbr": "DEN",
+      "zh": "丹佛金塊",
+      "en": "Denver Nuggets",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612743/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 54,
+      "teamId": 1610612743,
+      "official": "https://www.nba.com/team/1610612743",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/denver-nuggets/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-DET",
+      "league": "NBA",
+      "abbr": "DET",
+      "zh": "底特律活塞",
+      "en": "Detroit Pistons",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612765/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612765/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "https://static.nike.com/a/images/t_default/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d%2Cc_scale%2Cfl_relative%2Cw_1.0%2Ch_1.0%2Cfl_layer_apply/0d25a43f-b295-4199-a6c3-571335bedc93/DET%2BMNK%2BDF%2BSWGMN%2BJSY%2BICN%2B22.png",
+      "jerseyLabel": "Icon 球衣",
+      "index": 55,
+      "teamId": 1610612765,
+      "official": "https://www.nba.com/team/1610612765",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/detroit-pistons/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-GSW",
+      "league": "NBA",
+      "abbr": "GSW",
+      "zh": "金州勇士",
+      "en": "Golden State Warriors",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612744/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "https://basketballjerseyarchive.com/image/2025/10/21/ABHqOaf0CptgL9s/golden-state-warriors-2025-26-icon-jersey.jpg",
+      "jerseyLabel": "2025–26 Icon 球衣",
+      "index": 56,
+      "teamId": 1610612744,
+      "official": "https://www.nba.com/team/1610612744",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/golden-state-warriors/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-HOU",
+      "league": "NBA",
+      "abbr": "HOU",
+      "zh": "休士頓火箭",
+      "en": "Houston Rockets",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612745/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612745/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 57,
+      "teamId": 1610612745,
+      "official": "https://www.nba.com/team/1610612745",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/houston-rockets/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-IND",
+      "league": "NBA",
+      "abbr": "IND",
+      "zh": "印第安納溜馬",
+      "en": "Indiana Pacers",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612754/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612754/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 58,
+      "teamId": 1610612754,
+      "official": "https://www.nba.com/team/1610612754",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/indiana-pacers/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-LAC",
+      "league": "NBA",
+      "abbr": "LAC",
+      "zh": "洛杉磯快艇",
+      "en": "Los Angeles Clippers",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612746/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612746/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 59,
+      "teamId": 1610612746,
+      "official": "https://www.nba.com/team/1610612746",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/los-angeles-clippers/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-LAL",
+      "league": "NBA",
+      "abbr": "LAL",
+      "zh": "洛杉磯湖人",
+      "en": "Los Angeles Lakers",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612747/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "https://lakersstore.com/cdn/shop/files/2425_lal_mktg_doncic_mock_icon_front_2_mv.png?v=1738717457&width=900",
+      "jerseyLabel": "Icon 經典黃色球衣",
+      "index": 60,
+      "teamId": 1610612747,
+      "official": "https://www.nba.com/team/1610612747",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/los-angeles-lakers/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-MEM",
+      "league": "NBA",
+      "abbr": "MEM",
+      "zh": "曼菲斯灰熊",
+      "en": "Memphis Grizzlies",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612763/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612763/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 61,
+      "teamId": 1610612763,
+      "official": "https://www.nba.com/team/1610612763",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/memphis-grizzlies/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-MIA",
+      "league": "NBA",
+      "abbr": "MIA",
+      "zh": "邁阿密熱火",
+      "en": "Miami Heat",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612748/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612748/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 62,
+      "teamId": 1610612748,
+      "official": "https://www.nba.com/team/1610612748",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/miami-heat/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-MIL",
+      "league": "NBA",
+      "abbr": "MIL",
+      "zh": "密爾瓦基公鹿",
+      "en": "Milwaukee Bucks",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612749/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612749/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 63,
+      "teamId": 1610612749,
+      "official": "https://www.nba.com/team/1610612749",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/milwaukee-bucks/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-MIN",
+      "league": "NBA",
+      "abbr": "MIN",
+      "zh": "明尼蘇達灰狼",
+      "en": "Minnesota Timberwolves",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612750/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 64,
+      "teamId": 1610612750,
+      "official": "https://www.nba.com/team/1610612750",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/minnesota-timberwolves/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-NOP",
+      "league": "NBA",
+      "abbr": "NOP",
+      "zh": "紐奧良鵜鶘",
+      "en": "New Orleans Pelicans",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612740/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 65,
+      "teamId": 1610612740,
+      "official": "https://www.nba.com/team/1610612740",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/new-orleans-pelicans/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-NYK",
+      "league": "NBA",
+      "abbr": "NYK",
+      "zh": "紐約尼克",
+      "en": "New York Knicks",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612752/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "https://24segons.es/204001-thickbox_default/jalen-brunson-new-york-knicks-25-26-icon-edition-swingman-camiseta.jpg",
+      "jerseyLabel": "2025–26 Icon 球衣",
+      "index": 66,
+      "teamId": 1610612752,
+      "official": "https://www.nba.com/team/1610612752",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/new-york-knicks/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-OKC",
+      "league": "NBA",
+      "abbr": "OKC",
+      "zh": "奧克拉荷馬雷霆",
+      "en": "Oklahoma City Thunder",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612760/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612760/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "https://static.nike.com/a/images/f_auto/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d%2Cc_scale%2Cfl_relative%2Cw_1.0%2Ch_1.0%2Cfl_layer_apply/4645ec7c-0688-4f93-a559-0e090bc0d9dc/OKC%2BMNK%2BDF%2BSWGMN%2BJSY%2BICN%2B22.png",
+      "jerseyLabel": "Icon 球衣",
+      "index": 67,
+      "teamId": 1610612760,
+      "official": "https://www.nba.com/team/1610612760",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/oklahoma-city-thunder/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-ORL",
+      "league": "NBA",
+      "abbr": "ORL",
+      "zh": "奧蘭多魔術",
+      "en": "Orlando Magic",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612753/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612753/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 68,
+      "teamId": 1610612753,
+      "official": "https://www.nba.com/team/1610612753",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/orlando-magic/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-PHI",
+      "league": "NBA",
+      "abbr": "PHI",
+      "zh": "費城76人",
+      "en": "Philadelphia 76ers",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612755/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612755/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "https://static.nike.com/a/images/t_web_pw_592_v2/f_auto/u_9ddf04c7-2a9a-4d76-add1-d15af8f0263d%2Cc_scale%2Cfl_relative%2Cw_1.0%2Ch_1.0%2Cfl_layer_apply/47cfb360-7a68-4028-a1b1-1ec5eb9bf26a/PHI%2BMNK%2BDF%2BSWGMN%2BJSY%2BICN%2B23.png",
+      "jerseyLabel": "Icon 球衣",
+      "index": 69,
+      "teamId": 1610612755,
+      "official": "https://www.nba.com/team/1610612755",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/philadelphia-76ers/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-PHX",
+      "league": "NBA",
+      "abbr": "PHX",
+      "zh": "鳳凰城太陽",
+      "en": "Phoenix Suns",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612756/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 70,
+      "teamId": 1610612756,
+      "official": "https://www.nba.com/team/1610612756",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/phoenix-suns/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-POR",
+      "league": "NBA",
+      "abbr": "POR",
+      "zh": "波特蘭拓荒者",
+      "en": "Portland Trail Blazers",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612757/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612757/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 71,
+      "teamId": 1610612757,
+      "official": "https://www.nba.com/team/1610612757",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/portland-trail-blazers/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-SAC",
+      "league": "NBA",
+      "abbr": "SAC",
+      "zh": "沙加緬度國王",
+      "en": "Sacramento Kings",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612758/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612758/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 72,
+      "teamId": 1610612758,
+      "official": "https://www.nba.com/team/1610612758",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/sacramento-kings/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-SAS",
+      "league": "NBA",
+      "abbr": "SAS",
+      "zh": "聖安東尼奧馬刺",
+      "en": "San Antonio Spurs",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612759/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612759/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 73,
+      "teamId": 1610612759,
+      "official": "https://www.nba.com/team/1610612759",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/san-antonio-spurs/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-TOR",
+      "league": "NBA",
+      "abbr": "TOR",
+      "zh": "多倫多暴龍",
+      "en": "Toronto Raptors",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612761/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612761/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 74,
+      "teamId": 1610612761,
+      "official": "https://www.nba.com/team/1610612761",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/toronto-raptors/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-UTA",
+      "league": "NBA",
+      "abbr": "UTA",
+      "zh": "猶他爵士",
+      "en": "Utah Jazz",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612762/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 75,
+      "teamId": 1610612762,
+      "official": "https://www.nba.com/team/1610612762",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/utah-jazz/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NBA-WAS",
+      "league": "NBA",
+      "abbr": "WAS",
+      "zh": "華盛頓巫師",
+      "en": "Washington Wizards",
+      "logos": [
+        "https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.svg",
+        "https://cdn.nba.com/logos/nba/1610612764/primary/L/logo.png"
+      ],
+      "rosterSource": "https://www.nba.com/teams",
+      "jerseyPage": "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 76,
+      "teamId": 1610612764,
+      "official": "https://www.nba.com/team/1610612764",
+      "logoPolicyVersion": 3,
+      "logoLabel": "Official primary logo",
+      "logoSourcePage": "https://www.nba.com/teams",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "jerseyTeamExclusive": false,
+      "jerseyPages": [
+        "https://store.nba.com/washington-wizards/jerseys/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2026-27-l758/",
+        "https://basketballjerseyarchive.com/nba-jerseys-2025-26-l758/"
+      ],
+      "logoDiscovery": []
+    },
+    {
+      "id": "NPB-YG",
+      "league": "NPB",
+      "abbr": "YG",
+      "zh": "讀賣巨人",
+      "en": "Yomiuri Giants",
+      "official": "https://www.giants.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_giants.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://store.giants.jp/",
+      "jerseyPages": [
+        "https://store.giants.jp/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 77,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "読売ジャイアンツ",
+      "aliases": [
+        "読売ジャイアンツ",
+        "giants"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "giants"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://www.giants.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NPB-HT",
+      "league": "NPB",
+      "abbr": "HT",
+      "zh": "阪神虎",
+      "en": "Hanshin Tigers",
+      "official": "https://hanshintigers.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_tigers.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://shop.hanshintigers.jp/",
+      "jerseyPages": [
+        "https://shop.hanshintigers.jp/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 78,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "阪神タイガース",
+      "aliases": [
+        "阪神タイガース",
+        "tigers"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "tigers"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://hanshintigers.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NPB-DB",
+      "league": "NPB",
+      "abbr": "DB",
+      "zh": "橫濱DeNA海灣之星",
+      "en": "Yokohama DeNA BayStars",
+      "official": "https://www.baystars.co.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_baystars.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://ec.baystars.co.jp/",
+      "jerseyPages": [
+        "https://ec.baystars.co.jp/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 79,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "横浜DeNAベイスターズ",
+      "aliases": [
+        "横浜DeNAベイスターズ",
+        "baystars"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "baystars"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://www.baystars.co.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NPB-HC",
+      "league": "NPB",
+      "abbr": "HC",
+      "zh": "廣島東洋鯉魚",
+      "en": "Hiroshima Toyo Carp",
+      "official": "https://www.carp.co.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_carp.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.shop.carp.co.jp/",
+      "jerseyPages": [
+        "https://www.shop.carp.co.jp/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 80,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "広島東洋カープ",
+      "aliases": [
+        "広島東洋カープ",
+        "carp"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "carp"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://www.carp.co.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NPB-YS",
+      "league": "NPB",
+      "abbr": "YS",
+      "zh": "東京養樂多燕子",
+      "en": "Tokyo Yakult Swallows",
+      "official": "https://www.yakult-swallows.co.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_swallows.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://shop.yakult-swallows.co.jp/",
+      "jerseyPages": [
+        "https://shop.yakult-swallows.co.jp/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 81,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "東京ヤクルトスワローズ",
+      "aliases": [
+        "東京ヤクルトスワローズ",
+        "swallows"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "swallows"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://www.yakult-swallows.co.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NPB-CD",
+      "league": "NPB",
+      "abbr": "CD",
+      "zh": "中日龍",
+      "en": "Chunichi Dragons",
+      "official": "https://dragons.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_dragons.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://store.dragons.jp/",
+      "jerseyPages": [
+        "https://store.dragons.jp/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 82,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "中日ドラゴンズ",
+      "aliases": [
+        "中日ドラゴンズ",
+        "dragons"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "dragons"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://dragons.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NPB-SH",
+      "league": "NPB",
+      "abbr": "SH",
+      "zh": "福岡軟銀鷹",
+      "en": "Fukuoka SoftBank Hawks",
+      "official": "https://www.softbankhawks.co.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_hawks.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.softbankhawksstore.jp/",
+      "jerseyPages": [
+        "https://www.softbankhawksstore.jp/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 83,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "福岡ソフトバンクホークス",
+      "aliases": [
+        "福岡ソフトバンクホークス",
+        "hawks"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "hawks"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://www.softbankhawks.co.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NPB-F",
+      "league": "NPB",
+      "abbr": "F",
+      "zh": "北海道日本火腿鬥士",
+      "en": "Hokkaido Nippon-Ham Fighters",
+      "official": "https://www.fighters.co.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_fighters.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://store.fighters.co.jp/",
+      "jerseyPages": [
+        "https://store.fighters.co.jp/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 84,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "北海道日本ハムファイターズ",
+      "aliases": [
+        "北海道日本ハムファイターズ",
+        "fighters"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "fighters"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://www.fighters.co.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NPB-M",
+      "league": "NPB",
+      "abbr": "M",
+      "zh": "千葉羅德海洋",
+      "en": "Chiba Lotte Marines",
+      "official": "https://www.marines.co.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_marines.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://shop.marines.co.jp/",
+      "jerseyPages": [
+        "https://shop.marines.co.jp/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 85,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "千葉ロッテマリーンズ",
+      "aliases": [
+        "千葉ロッテマリーンズ",
+        "marines"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "marines"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://www.marines.co.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NPB-B",
+      "league": "NPB",
+      "abbr": "B",
+      "zh": "歐力士猛牛",
+      "en": "Orix Buffaloes",
+      "official": "https://www.buffaloes.co.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_buffaloes.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://shop.buffaloes.co.jp/",
+      "jerseyPages": [
+        "https://shop.buffaloes.co.jp/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 86,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "オリックス・バファローズ",
+      "aliases": [
+        "オリックス・バファローズ",
+        "buffaloes"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "buffaloes"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://www.buffaloes.co.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NPB-E",
+      "league": "NPB",
+      "abbr": "E",
+      "zh": "東北樂天金鷲",
+      "en": "Tohoku Rakuten Golden Eagles",
+      "official": "https://www.rakuteneagles.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_eagles.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.rakuten.co.jp/rakuteneagles/",
+      "jerseyPages": [
+        "https://www.rakuten.co.jp/rakuteneagles/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 87,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "東北楽天ゴールデンイーグルス",
+      "aliases": [
+        "東北楽天ゴールデンイーグルス",
+        "eagles"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "eagles"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://www.rakuteneagles.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NPB-L",
+      "league": "NPB",
+      "abbr": "L",
+      "zh": "埼玉西武獅",
+      "en": "Saitama Seibu Lions",
+      "official": "https://www.seibulions.jp/",
+      "logos": [
+        "https://www.baystars.co.jp/images/common/teams/2026/img_logo_lions.png"
+      ],
+      "rosterSource": "https://npb.jp/eng/teams/",
+      "logoSourcePage": "https://www.baystars.co.jp/game/schedule/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://store.seibulions.jp/",
+      "jerseyPages": [
+        "https://store.seibulions.jp/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 88,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "埼玉西武ライオンズ",
+      "aliases": [
+        "埼玉西武ライオンズ",
+        "lions"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://www.baystars.co.jp/game/schedule/",
+          "tokens": [
+            "lions"
+          ],
+          "requireLogo": true
+        },
+        {
+          "page": "https://www.seibulions.jp/",
+          "tokens": [
+            "logo"
+          ],
+          "headerOnly": true
+        }
+      ],
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "KBO-LG",
+      "league": "KBO",
+      "abbr": "LG",
+      "zh": "LG雙子",
+      "en": "LG Twins",
+      "official": "https://www.lgtwins.com/",
+      "logos": [
+        "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_LG.png"
+      ],
+      "rosterSource": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoSourcePage": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://twinslockerdium.co.kr/product/project.html?cate_no=243",
+      "jerseyPages": [
+        "https://twinslockerdium.co.kr/product/project.html?cate_no=243",
+        "https://www.lgtwins.com/"
+      ],
+      "jerseyDirect": "https://twinslockerdium.co.kr/web/product/medium/202603/8729e5f4ce89f078fa6903838907cc74.jpg",
+      "jerseyLabel": "2026 premium home / front",
+      "index": 89,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "LG 트윈스",
+      "aliases": [
+        "LG 트윈스",
+        "LG Twins",
+        "LG"
+      ],
+      "logoResolutionNote": "League directory image may be small. Replace with a larger official mark if needed.",
+      "jerseyTeamExclusive": true,
+      "jerseyFrontVerified": true,
+      "sourceReview": "Official store front image visually inspected on web at 800x800; not downloaded; maximum resolution not established",
+      "sourceCheckedOn": "2026-11-01",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "KBO-HH",
+      "league": "KBO",
+      "abbr": "HH",
+      "zh": "韓華老鷹",
+      "en": "Hanwha Eagles",
+      "official": "https://www.hanwhaeagles.co.kr/",
+      "logos": [
+        "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_HH.png"
+      ],
+      "rosterSource": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoSourcePage": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.hanwhaeagles.co.kr/",
+      "jerseyPages": [
+        "https://www.hanwhaeagles.co.kr/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 90,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "한화 이글스",
+      "aliases": [
+        "한화 이글스",
+        "Hanwha Eagles",
+        "한화"
+      ],
+      "logoResolutionNote": "League directory image may be small. Replace with a larger official mark if needed.",
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "KBO-SSG",
+      "league": "KBO",
+      "abbr": "SSG",
+      "zh": "SSG登陸者",
+      "en": "SSG Landers",
+      "official": "https://www.ssglanders.com/",
+      "logos": [
+        "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_SK.png"
+      ],
+      "rosterSource": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoSourcePage": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.ssglanders.com/",
+      "jerseyPages": [
+        "https://www.ssglanders.com/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 91,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "SSG 랜더스",
+      "aliases": [
+        "SSG 랜더스",
+        "SSG Landers",
+        "SSG"
+      ],
+      "logoResolutionNote": "League directory image may be small. Replace with a larger official mark if needed.",
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "KBO-SS",
+      "league": "KBO",
+      "abbr": "SS",
+      "zh": "三星獅",
+      "en": "Samsung Lions",
+      "official": "https://www.samsunglions.com/",
+      "logos": [
+        "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_SS.png"
+      ],
+      "rosterSource": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoSourcePage": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://samsunglionsauthentic.shop/",
+      "jerseyPages": [
+        "https://samsunglionsauthentic.shop/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 92,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "삼성 라이온즈",
+      "aliases": [
+        "삼성 라이온즈",
+        "Samsung Lions",
+        "삼성"
+      ],
+      "logoResolutionNote": "League directory image may be small. Replace with a larger official mark if needed.",
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "KBO-NC",
+      "league": "KBO",
+      "abbr": "NC",
+      "zh": "NC恐龍",
+      "en": "NC Dinos",
+      "official": "https://www.ncdinos.com/",
+      "logos": [
+        "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_NC.png"
+      ],
+      "rosterSource": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoSourcePage": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://store.ncdinos.com/",
+      "jerseyPages": [
+        "https://store.ncdinos.com/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 93,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "NC 다이노스",
+      "aliases": [
+        "NC 다이노스",
+        "NC Dinos",
+        "NC"
+      ],
+      "logoResolutionNote": "League directory image may be small. Replace with a larger official mark if needed.",
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "KBO-KT",
+      "league": "KBO",
+      "abbr": "KT",
+      "zh": "KT巫師",
+      "en": "KT Wiz",
+      "official": "https://www.ktwiz.co.kr/",
+      "logos": [
+        "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_KT.png"
+      ],
+      "rosterSource": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoSourcePage": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.ktwizstore.co.kr/",
+      "jerseyPages": [
+        "https://www.ktwizstore.co.kr/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 94,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "KT 위즈",
+      "aliases": [
+        "KT 위즈",
+        "KT Wiz",
+        "KT"
+      ],
+      "logoResolutionNote": "League directory image may be small. Replace with a larger official mark if needed.",
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "KBO-LT",
+      "league": "KBO",
+      "abbr": "LT",
+      "zh": "樂天巨人",
+      "en": "Lotte Giants",
+      "official": "https://www.giantsclub.com/",
+      "logos": [
+        "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_LT.png"
+      ],
+      "rosterSource": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoSourcePage": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.giantsclub.com/",
+      "jerseyPages": [
+        "https://www.giantsclub.com/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 95,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "롯데 자이언츠",
+      "aliases": [
+        "롯데 자이언츠",
+        "Lotte Giants",
+        "롯데"
+      ],
+      "logoResolutionNote": "League directory image may be small. Replace with a larger official mark if needed.",
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "KBO-KIA",
+      "league": "KBO",
+      "abbr": "KIA",
+      "zh": "起亞虎",
+      "en": "KIA Tigers",
+      "official": "https://www.kiatigers.co.kr/",
+      "logos": [
+        "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_HT.png"
+      ],
+      "rosterSource": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoSourcePage": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://teamstore.tigers.co.kr/",
+      "jerseyPages": [
+        "https://teamstore.tigers.co.kr/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 96,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "KIA 타이거즈",
+      "aliases": [
+        "KIA 타이거즈",
+        "KIA Tigers",
+        "KIA"
+      ],
+      "logoResolutionNote": "League directory image may be small. Replace with a larger official mark if needed.",
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "KBO-OB",
+      "league": "KBO",
+      "abbr": "OB",
+      "zh": "斗山熊",
+      "en": "Doosan Bears",
+      "official": "https://www.doosanbears.com/",
+      "logos": [
+        "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_OB.png"
+      ],
+      "rosterSource": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoSourcePage": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.doosanbears.com/",
+      "jerseyPages": [
+        "https://www.doosanbears.com/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 97,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "두산 베어스",
+      "aliases": [
+        "두산 베어스",
+        "Doosan Bears",
+        "두산"
+      ],
+      "logoResolutionNote": "League directory image may be small. Replace with a larger official mark if needed.",
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "KBO-WO",
+      "league": "KBO",
+      "abbr": "WO",
+      "zh": "培證英雄",
+      "en": "Kiwoom Heroes",
+      "official": "https://www.heroesbaseball.co.kr/",
+      "logos": [
+        "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/emblem/regular/fixed/emblem_WO.png"
+      ],
+      "rosterSource": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoSourcePage": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.heroesbaseball.co.kr/",
+      "jerseyPages": [
+        "https://www.heroesbaseball.co.kr/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 98,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "local": "키움 히어로즈",
+      "aliases": [
+        "키움 히어로즈",
+        "Kiwoom Heroes",
+        "키움"
+      ],
+      "logoResolutionNote": "League directory image may be small. Replace with a larger official mark if needed.",
+      "jerseyTeamExclusive": true,
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "NFL-ARI",
+      "league": "NFL",
+      "abbr": "ARI",
+      "zh": "亞利桑那紅雀",
+      "en": "Arizona Cardinals",
+      "official": "https://www.azcardinals.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/u9fltoslqdsyao8cpm0k"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/arizona-cardinals/",
+      "jerseyPages": [
+        "https://www.nflshop.com/arizona-cardinals/jerseys/",
+        "https://www.nflshop.com/arizona-cardinals/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 99,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Arizona Cardinals",
+        "arizona-cardinals"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-ATL",
+      "league": "NFL",
+      "abbr": "ATL",
+      "zh": "亞特蘭大獵鷹",
+      "en": "Atlanta Falcons",
+      "official": "https://www.atlantafalcons.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/d8m7hzpsbrl6pnqht8op"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/atlanta-falcons/",
+      "jerseyPages": [
+        "https://www.nflshop.com/atlanta-falcons/jerseys/",
+        "https://www.nflshop.com/atlanta-falcons/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 100,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Atlanta Falcons",
+        "atlanta-falcons"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-CAR",
+      "league": "NFL",
+      "abbr": "CAR",
+      "zh": "卡羅萊納黑豹",
+      "en": "Carolina Panthers",
+      "official": "https://www.panthers.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/ervfzgrqdpnc7lh5gqwq"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/carolina-panthers/",
+      "jerseyPages": [
+        "https://www.nflshop.com/carolina-panthers/jerseys/",
+        "https://www.nflshop.com/carolina-panthers/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 101,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Carolina Panthers",
+        "carolina-panthers"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-CHI",
+      "league": "NFL",
+      "abbr": "CHI",
+      "zh": "芝加哥熊",
+      "en": "Chicago Bears",
+      "official": "https://www.chicagobears.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/ijrplti0kmzsyoaikhv1"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/chicago-bears/",
+      "jerseyPages": [
+        "https://www.nflshop.com/chicago-bears/jerseys/",
+        "https://www.nflshop.com/chicago-bears/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 102,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Chicago Bears",
+        "chicago-bears"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-DAL",
+      "league": "NFL",
+      "abbr": "DAL",
+      "zh": "達拉斯牛仔",
+      "en": "Dallas Cowboys",
+      "official": "https://www.dallascowboys.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/ieid8hoygzdlmzo0tnf6"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/dallas-cowboys/",
+      "jerseyPages": [
+        "https://www.nflshop.com/dallas-cowboys/jerseys/",
+        "https://www.nflshop.com/dallas-cowboys/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 103,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Dallas Cowboys",
+        "dallas-cowboys"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-DET",
+      "league": "NFL",
+      "abbr": "DET",
+      "zh": "底特律獅",
+      "en": "Detroit Lions",
+      "official": "https://www.detroitlions.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/ocvxwnapdvwevupe4tpr"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/detroit-lions/",
+      "jerseyPages": [
+        "https://www.nflshop.com/detroit-lions/jerseys/",
+        "https://www.nflshop.com/detroit-lions/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 104,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Detroit Lions",
+        "detroit-lions"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-GB",
+      "league": "NFL",
+      "abbr": "GB",
+      "zh": "綠灣包裝工",
+      "en": "Green Bay Packers",
+      "official": "https://www.packers.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/gppfvr7n8gljgjaqux2x"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/green-bay-packers/",
+      "jerseyPages": [
+        "https://www.nflshop.com/green-bay-packers/jerseys/",
+        "https://www.nflshop.com/green-bay-packers/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 105,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Green Bay Packers",
+        "green-bay-packers"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-LAR",
+      "league": "NFL",
+      "abbr": "LAR",
+      "zh": "洛杉磯公羊",
+      "en": "Los Angeles Rams",
+      "official": "https://www.therams.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/upload/f_auto/league/ssfh7d2tbkbltexf0xqg"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/los-angeles-rams/",
+      "jerseyPages": [
+        "https://www.nflshop.com/los-angeles-rams/jerseys/",
+        "https://www.nflshop.com/los-angeles-rams/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 106,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Los Angeles Rams",
+        "los-angeles-rams"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-MIN",
+      "league": "NFL",
+      "abbr": "MIN",
+      "zh": "明尼蘇達維京人",
+      "en": "Minnesota Vikings",
+      "official": "https://www.vikings.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/teguylrnqqmfcwxvcmmz"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/minnesota-vikings/",
+      "jerseyPages": [
+        "https://www.nflshop.com/minnesota-vikings/jerseys/",
+        "https://www.nflshop.com/minnesota-vikings/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 107,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Minnesota Vikings",
+        "minnesota-vikings"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-NO",
+      "league": "NFL",
+      "abbr": "NO",
+      "zh": "紐奧良聖徒",
+      "en": "New Orleans Saints",
+      "official": "https://www.neworleanssaints.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/grhjkahghjkk17v43hdx"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/new-orleans-saints/",
+      "jerseyPages": [
+        "https://www.nflshop.com/new-orleans-saints/jerseys/",
+        "https://www.nflshop.com/new-orleans-saints/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 108,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "New Orleans Saints",
+        "new-orleans-saints"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-NYG",
+      "league": "NFL",
+      "abbr": "NYG",
+      "zh": "紐約巨人",
+      "en": "New York Giants",
+      "official": "https://www.giants.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/t6mhdmgizi6qhndh8b9p"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/new-york-giants/",
+      "jerseyPages": [
+        "https://www.nflshop.com/new-york-giants/jerseys/",
+        "https://www.nflshop.com/new-york-giants/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 109,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "New York Giants",
+        "new-york-giants"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-PHI",
+      "league": "NFL",
+      "abbr": "PHI",
+      "zh": "費城老鷹",
+      "en": "Philadelphia Eagles",
+      "official": "https://www.philadelphiaeagles.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/puhrqgj71gobgdkdo6uq"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/philadelphia-eagles/",
+      "jerseyPages": [
+        "https://www.nflshop.com/philadelphia-eagles/jerseys/",
+        "https://www.nflshop.com/philadelphia-eagles/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 110,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Philadelphia Eagles",
+        "philadelphia-eagles"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-SF",
+      "league": "NFL",
+      "abbr": "SF",
+      "zh": "舊金山49人",
+      "en": "San Francisco 49ers",
+      "official": "https://www.49ers.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/dxibuyxbk0b9ua5ih9hn"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/san-francisco-49ers/",
+      "jerseyPages": [
+        "https://www.nflshop.com/san-francisco-49ers/jerseys/",
+        "https://www.nflshop.com/san-francisco-49ers/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 111,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "San Francisco 49ers",
+        "san-francisco-49ers"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-SEA",
+      "league": "NFL",
+      "abbr": "SEA",
+      "zh": "西雅圖海鷹",
+      "en": "Seattle Seahawks",
+      "official": "https://www.seahawks.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/gcytzwpjdzbpwnwxincg"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/seattle-seahawks/",
+      "jerseyPages": [
+        "https://www.nflshop.com/seattle-seahawks/jerseys/",
+        "https://www.nflshop.com/seattle-seahawks/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 112,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Seattle Seahawks",
+        "seattle-seahawks"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-TB",
+      "league": "NFL",
+      "abbr": "TB",
+      "zh": "坦帕灣海盜",
+      "en": "Tampa Bay Buccaneers",
+      "official": "https://www.buccaneers.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/v8uqiualryypwqgvwcih"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/tampa-bay-buccaneers/",
+      "jerseyPages": [
+        "https://www.nflshop.com/tampa-bay-buccaneers/jerseys/",
+        "https://www.nflshop.com/tampa-bay-buccaneers/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 113,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Tampa Bay Buccaneers",
+        "tampa-bay-buccaneers"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-WAS",
+      "league": "NFL",
+      "abbr": "WAS",
+      "zh": "華盛頓指揮官",
+      "en": "Washington Commanders",
+      "official": "https://www.commanders.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/xymxwrxtyj9fhaemhdyd"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/washington-commanders/",
+      "jerseyPages": [
+        "https://www.nflshop.com/washington-commanders/jerseys/",
+        "https://www.nflshop.com/washington-commanders/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 114,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Washington Commanders",
+        "washington-commanders"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-BAL",
+      "league": "NFL",
+      "abbr": "BAL",
+      "zh": "巴爾的摩烏鴉",
+      "en": "Baltimore Ravens",
+      "official": "https://www.baltimoreravens.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/ucsdijmddsqcj1i9tddd"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/baltimore-ravens/",
+      "jerseyPages": [
+        "https://www.nflshop.com/baltimore-ravens/jerseys/",
+        "https://www.nflshop.com/baltimore-ravens/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 115,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Baltimore Ravens",
+        "baltimore-ravens"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-BUF",
+      "league": "NFL",
+      "abbr": "BUF",
+      "zh": "水牛城比爾",
+      "en": "Buffalo Bills",
+      "official": "https://www.buffalobills.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/giphcy6ie9mxbnldntsf"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/buffalo-bills/",
+      "jerseyPages": [
+        "https://www.nflshop.com/buffalo-bills/jerseys/",
+        "https://www.nflshop.com/buffalo-bills/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 116,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Buffalo Bills",
+        "buffalo-bills"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-CIN",
+      "league": "NFL",
+      "abbr": "CIN",
+      "zh": "辛辛那提孟加拉虎",
+      "en": "Cincinnati Bengals",
+      "official": "https://www.bengals.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/okxpteoliyayufypqalq"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/cincinnati-bengals/",
+      "jerseyPages": [
+        "https://www.nflshop.com/cincinnati-bengals/jerseys/",
+        "https://www.nflshop.com/cincinnati-bengals/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 117,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Cincinnati Bengals",
+        "cincinnati-bengals"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-CLE",
+      "league": "NFL",
+      "abbr": "CLE",
+      "zh": "克里夫蘭布朗",
+      "en": "Cleveland Browns",
+      "official": "https://www.clevelandbrowns.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/upload/f_auto/league/bedyixmmjhszfcx5wv2l"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/cleveland-browns/",
+      "jerseyPages": [
+        "https://www.nflshop.com/cleveland-browns/jerseys/",
+        "https://www.nflshop.com/cleveland-browns/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 118,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Cleveland Browns",
+        "cleveland-browns"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-DEN",
+      "league": "NFL",
+      "abbr": "DEN",
+      "zh": "丹佛野馬",
+      "en": "Denver Broncos",
+      "official": "https://www.denverbroncos.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/t0p7m5cjdjy18rnzzqbx"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/denver-broncos/",
+      "jerseyPages": [
+        "https://www.nflshop.com/denver-broncos/jerseys/",
+        "https://www.nflshop.com/denver-broncos/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 119,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Denver Broncos",
+        "denver-broncos"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-HOU",
+      "league": "NFL",
+      "abbr": "HOU",
+      "zh": "休士頓德州人",
+      "en": "Houston Texans",
+      "official": "https://www.houstontexans.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/upload/f_auto/league/u6camnphqvjc6mku6u3c"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/houston-texans/",
+      "jerseyPages": [
+        "https://www.nflshop.com/houston-texans/jerseys/",
+        "https://www.nflshop.com/houston-texans/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 120,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Houston Texans",
+        "houston-texans"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-IND",
+      "league": "NFL",
+      "abbr": "IND",
+      "zh": "印第安納波利斯小馬",
+      "en": "Indianapolis Colts",
+      "official": "https://www.colts.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/ketwqeuschqzjsllbid5"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/indianapolis-colts/",
+      "jerseyPages": [
+        "https://www.nflshop.com/indianapolis-colts/jerseys/",
+        "https://www.nflshop.com/indianapolis-colts/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 121,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Indianapolis Colts",
+        "indianapolis-colts"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-JAX",
+      "league": "NFL",
+      "abbr": "JAX",
+      "zh": "傑克森維爾美洲豹",
+      "en": "Jacksonville Jaguars",
+      "official": "https://www.jaguars.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/qycbib6ivrm9dqaexryk"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/jacksonville-jaguars/",
+      "jerseyPages": [
+        "https://www.nflshop.com/jacksonville-jaguars/jerseys/",
+        "https://www.nflshop.com/jacksonville-jaguars/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 122,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Jacksonville Jaguars",
+        "jacksonville-jaguars"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-KC",
+      "league": "NFL",
+      "abbr": "KC",
+      "zh": "堪薩斯城酋長",
+      "en": "Kansas City Chiefs",
+      "official": "https://www.chiefs.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/ujshjqvmnxce8m4obmvs"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/kansas-city-chiefs/",
+      "jerseyPages": [
+        "https://www.nflshop.com/kansas-city-chiefs/jerseys/",
+        "https://www.nflshop.com/kansas-city-chiefs/jerseys/t-47269225+d-6726336779+z-8-732324740",
+        "https://www.nflshop.com/kansas-city-chiefs/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 123,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Kansas City Chiefs",
+        "kansas-city-chiefs"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-LV",
+      "league": "NFL",
+      "abbr": "LV",
+      "zh": "拉斯維加斯突襲者",
+      "en": "Las Vegas Raiders",
+      "official": "https://www.raiders.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/gzcojbzcyjgubgyb6xf2"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/las-vegas-raiders/",
+      "jerseyPages": [
+        "https://www.nflshop.com/las-vegas-raiders/jerseys/",
+        "https://www.nflshop.com/las-vegas-raiders/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 124,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Las Vegas Raiders",
+        "las-vegas-raiders"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-LAC",
+      "league": "NFL",
+      "abbr": "LAC",
+      "zh": "洛杉磯電光",
+      "en": "Los Angeles Chargers",
+      "official": "https://www.chargers.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/dhfidtn8jrumakbogeu4"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/los-angeles-chargers/",
+      "jerseyPages": [
+        "https://www.nflshop.com/los-angeles-chargers/jerseys/",
+        "https://www.nflshop.com/los-angeles-chargers/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 125,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Los Angeles Chargers",
+        "los-angeles-chargers"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-MIA",
+      "league": "NFL",
+      "abbr": "MIA",
+      "zh": "邁阿密海豚",
+      "en": "Miami Dolphins",
+      "official": "https://www.miamidolphins.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/lits6p8ycthy9to70bnt"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/miami-dolphins/",
+      "jerseyPages": [
+        "https://www.nflshop.com/miami-dolphins/jerseys/",
+        "https://www.nflshop.com/miami-dolphins/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 126,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Miami Dolphins",
+        "miami-dolphins"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-NE",
+      "league": "NFL",
+      "abbr": "NE",
+      "zh": "新英格蘭愛國者",
+      "en": "New England Patriots",
+      "official": "https://www.patriots.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/moyfxx3dq5pio4aiftnc"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/new-england-patriots/",
+      "jerseyPages": [
+        "https://www.nflshop.com/new-england-patriots/jerseys/",
+        "https://www.nflshop.com/new-england-patriots/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 127,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "New England Patriots",
+        "new-england-patriots"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-NYJ",
+      "league": "NFL",
+      "abbr": "NYJ",
+      "zh": "紐約噴射機",
+      "en": "New York Jets",
+      "official": "https://www.newyorkjets.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/upload/f_auto/league/vdqo4iiufmdrimkaxslj"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/new-york-jets/",
+      "jerseyPages": [
+        "https://www.nflshop.com/new-york-jets/jerseys/",
+        "https://www.nflshop.com/new-york-jets/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 128,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "New York Jets",
+        "new-york-jets"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "003F2D",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-PIT",
+      "league": "NFL",
+      "abbr": "PIT",
+      "zh": "匹茲堡鋼人",
+      "en": "Pittsburgh Steelers",
+      "official": "https://www.steelers.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/private/f_auto/league/xujg9t3t4u5nmjgr54wx"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/pittsburgh-steelers/",
+      "jerseyPages": [
+        "https://www.nflshop.com/pittsburgh-steelers/jerseys/",
+        "https://www.nflshop.com/pittsburgh-steelers/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 129,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Pittsburgh Steelers",
+        "pittsburgh-steelers"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "NFL-TEN",
+      "league": "NFL",
+      "abbr": "TEN",
+      "zh": "田納西泰坦",
+      "en": "Tennessee Titans",
+      "official": "https://www.tennesseetitans.com/",
+      "logos": [
+        "https://static.www.nfl.com/image/upload/f_auto/league/wxdf3ixx9hqg4k9bw5ju"
+      ],
+      "rosterSource": "https://www.nfl.com/teams/",
+      "logoSourcePage": "https://www.nfl.com/teams/",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.nflshop.com/tennessee-titans/",
+      "jerseyPages": [
+        "https://www.nflshop.com/tennessee-titans/jerseys/",
+        "https://www.nflshop.com/tennessee-titans/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 130,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "Tennessee Titans",
+        "tennessee-titans"
+      ],
+      "jerseyTeamExclusive": false,
+      "logoBackdrop": "",
+      "logoNote": "2026 primary mark",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported",
+      "logoDiscovery": []
+    },
+    {
+      "id": "TPVL-EAST",
+      "league": "TPVL",
+      "abbr": "EAST",
+      "zh": "臺北伊斯特",
+      "en": "Taipei East Power",
+      "official": "https://eastpower.tw/",
+      "logos": [
+        "https://storage.googleapis.com/p-xc-m/event/419/squads/f25ac6c35ea46a5e8e134cf5236e4924d2bd44d601b41c5c97fb26ccec93db71",
+        "https://tpvl.tw/assets/logo-taipei.png"
+      ],
+      "rosterSource": "https://tpvl.tw/teams",
+      "logoSourcePage": "https://tpvl.tw/teams",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://eastpower.tw/product/2026-27-eastpower-player-replica-jersey",
+      "jerseyPages": [
+        "https://eastpower.tw/product/2026-27-eastpower-player-replica-jersey",
+        "https://eastpower.tw/shop/"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "2026-27 player replica",
+      "index": 131,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "伊斯特",
+        "EAST POWER"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://tpvl.tw/teams",
+          "tokens": [
+            "臺北伊斯特",
+            "伊斯特",
+            "EAST POWER"
+          ],
+          "requireLogo": false
+        },
+        {
+          "page": "https://tpvl.tw/",
+          "tokens": [
+            "臺北伊斯特",
+            "伊斯特",
+            "EAST POWER"
+          ],
+          "requireLogo": false
+        }
+      ],
+      "preferLogoDiscovery": true,
+      "jerseyTeamExclusive": true,
+      "season": "2026-27",
+      "jerseyNote": "",
+      "sourceReview": "Exact official product page located in web search; image not downloaded",
+      "sourceCheckedOn": "2026-11-01",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "TPVL-LEO",
+      "league": "TPVL",
+      "abbr": "LEO",
+      "zh": "桃園雲豹飛將",
+      "en": "Taoyuan Leopards",
+      "official": "https://tpvl.tw/teams",
+      "logos": [
+        "https://storage.googleapis.com/p-xc-m/event/419/squads/c239e8e1b09bbf3bfe61ca30785df1f5206c998ff075c0e4ef0b7bc243925ff5",
+        "https://tpvl.tw/assets/logo-taoyuan.png"
+      ],
+      "rosterSource": "https://tpvl.tw/teams",
+      "logoSourcePage": "https://tpvl.tw/teams",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.stancave.com/pages/tpvl",
+      "jerseyPages": [
+        "https://www.stancave.com/pages/tpvl"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 132,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "雲豹飛將",
+        "Taoyuan Leopards"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://tpvl.tw/teams",
+          "tokens": [
+            "桃園雲豹飛將",
+            "雲豹飛將",
+            "Taoyuan Leopards"
+          ],
+          "requireLogo": false
+        },
+        {
+          "page": "https://tpvl.tw/",
+          "tokens": [
+            "桃園雲豹飛將",
+            "雲豹飛將",
+            "Taoyuan Leopards"
+          ],
+          "requireLogo": false
+        }
+      ],
+      "preferLogoDiscovery": true,
+      "jerseyTeamExclusive": false,
+      "season": "2026-27",
+      "jerseyNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "TPVL-COLLIE",
+      "league": "TPVL",
+      "abbr": "COLLIE",
+      "zh": "新竹可利工程師",
+      "en": "Hsinchu Collie Engineers",
+      "official": "https://tpvl.tw/teams",
+      "logos": [],
+      "rosterSource": "https://tpvl.tw/teams",
+      "logoSourcePage": "https://tpvl.tw/teams",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "",
+      "jerseyPages": [
+        "https://tvl.ctvba.org.tw/team/9",
+        "https://tpvl.tw/teams"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 133,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "可利工程師",
+        "Collie"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://tpvl.tw/teams",
+          "tokens": [
+            "新竹可利工程師",
+            "可利工程師",
+            "Collie"
+          ],
+          "requireLogo": false
+        },
+        {
+          "page": "https://tpvl.tw/",
+          "tokens": [
+            "新竹可利工程師",
+            "可利工程師",
+            "Collie"
+          ],
+          "requireLogo": false
+        },
+        {
+          "page": "https://tvl.ctvba.org.tw/team/9",
+          "tokens": [
+            "Collie",
+            "可利"
+          ],
+          "requireLogo": false
+        }
+      ],
+      "preferLogoDiscovery": true,
+      "jerseyTeamExclusive": false,
+      "season": "2026-27",
+      "jerseyNote": "No verified official jersey catalog yet",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "TPVL-WIN",
+      "league": "TPVL",
+      "abbr": "WIN",
+      "zh": "臺中連莊",
+      "en": "Taichung WinStreak",
+      "official": "https://tpvl.tw/teams",
+      "logos": [
+        "https://storage.googleapis.com/p-xc-m/event/419/squads/c45ab61917b75ee85815bf0d1431b0ebe5bb523b6395705ad65a2540c674a24a",
+        "https://tpvl.tw/assets/logo-taichung.png"
+      ],
+      "rosterSource": "https://tpvl.tw/teams",
+      "logoSourcePage": "https://tpvl.tw/teams",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.stancave.com/pages/tpvl",
+      "jerseyPages": [
+        "https://www.stancave.com/pages/tpvl"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 134,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "連莊",
+        "WinStreak"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://tpvl.tw/teams",
+          "tokens": [
+            "臺中連莊",
+            "連莊",
+            "WinStreak"
+          ],
+          "requireLogo": false
+        },
+        {
+          "page": "https://tpvl.tw/",
+          "tokens": [
+            "臺中連莊",
+            "連莊",
+            "WinStreak"
+          ],
+          "requireLogo": false
+        }
+      ],
+      "preferLogoDiscovery": true,
+      "jerseyTeamExclusive": false,
+      "season": "2026-27",
+      "jerseyNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    },
+    {
+      "id": "TPVL-TSG",
+      "league": "TPVL",
+      "abbr": "TSG",
+      "zh": "台鋼天鷹",
+      "en": "TSG SkyHawks",
+      "official": "https://tpvl.tw/teams/tsg-skyhawks",
+      "logos": [
+        "https://storage.googleapis.com/p-xc-m/event/419/squads/29e4235eb7896a31da75c82a9aa6683bcae2e7fb9d7b5df34b3a97f1c33d5764",
+        "https://tpvl.tw/assets/logo-sky.png"
+      ],
+      "rosterSource": "https://tpvl.tw/teams",
+      "logoSourcePage": "https://tpvl.tw/teams",
+      "logoPolicyVersion": 4,
+      "logoLabel": "Official team mark",
+      "jerseyPage": "https://www.stancave.com/pages/tsghawks",
+      "jerseyPages": [
+        "https://www.stancave.com/pages/tsghawks"
+      ],
+      "jerseyDirect": "",
+      "jerseyLabel": "",
+      "index": 135,
+      "addedInVersion": 4,
+      "imageVerification": "source-links-only; image download pending",
+      "aliases": [
+        "台鋼天鷹",
+        "TSG SkyHawks"
+      ],
+      "logoDiscovery": [
+        {
+          "page": "https://tpvl.tw/teams",
+          "tokens": [
+            "台鋼天鷹",
+            "台鋼天鷹",
+            "TSG SkyHawks"
+          ],
+          "requireLogo": false
+        },
+        {
+          "page": "https://tpvl.tw/",
+          "tokens": [
+            "台鋼天鷹",
+            "台鋼天鷹",
+            "TSG SkyHawks"
+          ],
+          "requireLogo": false
+        }
+      ],
+      "preferLogoDiscovery": true,
+      "jerseyTeamExclusive": false,
+      "season": "2026-27",
+      "jerseyNote": "",
+      "qualityPolicy": "original bytes; SVG preferred; actual dimensions and missing entries reported"
+    }
+  ],
+  "sources": {
+    "CPBL": "https://cpbl.com.tw/teamhistory",
+    "TPBL": "https://tpbl.basketball/",
+    "PLG": "https://pleagueofficial.com/",
+    "MLB": "https://www.mlb.com/team",
+    "NBA": "https://www.nba.com/teams",
+    "NPB": "https://npb.jp/eng/teams/",
+    "KBO": "https://www.koreabaseball.com/kbo/league/teaminfo.aspx",
+    "TPVL": "https://tpvl.tw/teams",
+    "NFL": "https://www.nfl.com/teams/"
+  },
+  "limitations": [
+    "Image completeness is determined by the build report, not by the roster size.",
+    "No claim that every image is the latest or globally highest-resolution.",
+    "Automatically selected product views still require visual review."
+  ],
+  "assetPolicy": {
+    "logo": "Official primary/team marks. No Wikipedia lead-image fallback.",
+    "mlbJersey": "Front product photos. No Gameday batter illustrations.",
+    "export": "Include selected teams with valid logos. Jerseys are optional; missing logos are reported and skipped.",
+    "newLeagues": "NPB/KBO/TPVL/NFL; official team marks, no random article lead images.",
+    "jersey": "Official team shops or licensed catalogs; front/product image preferred; rear views and souvenir products rejected.",
+    "cache": "Original 77 team IDs and IndexedDB key are unchanged.",
+    "v5": "No raster downsampling or enlargement. Preserve SVG original and 4096 px compatibility fallback. Front-view selection retains existing checks. Source URLs do not imply successful download."
+  },
+  "leagueOrder": [
+    "CPBL",
+    "TPBL",
+    "PLG",
+    "MLB",
+    "NBA",
+    "NPB",
+    "KBO",
+    "TPVL",
+    "NFL"
+  ],
+  "releaseNotes": [
+    "Build-time downloading on GitHub Actions",
+    "Same-origin image publishing",
+    "Random 10 without replacement",
+    "Original image bytes and actual dimensions"
+  ]
+}

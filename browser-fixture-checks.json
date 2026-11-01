@@ -1,0 +1,30 @@
+{
+  "scope": "In-memory DOM with synthetic image fixtures only; no navigation, HTTP integration or production deployment tested.",
+  "tests": {
+    "embedded_manifest_17_logos": true,
+    "random_100_rounds_10_unique": true,
+    "complete_only": true,
+    "fewer_than_10_uses_actual_count": true,
+    "question_hides_team_name": true,
+    "click_reveals_answer": true,
+    "optional_score": true,
+    "previous_returns_reveal": true,
+    "same_round_for_game_export": true,
+    "paired_slide_count": true,
+    "paired_svg_embedded": true,
+    "paired_3200x4000_preserved": true,
+    "paired_no_external_images": true,
+    "native_slide_count": true,
+    "native_svg_embedded": true,
+    "native_3200x4000_preserved": true,
+    "native_no_external_images": true,
+    "native_animation_present": true,
+    "exported_html_in_memory_no_network": true,
+    "all_round_backup_retains_count": true,
+    "mobile_no_horizontal_overflow": true,
+    "main_touch_target_44": true,
+    "empty_build_disables_play": true,
+    "no_browser_js_errors": true
+  },
+  "errors": []
+}
